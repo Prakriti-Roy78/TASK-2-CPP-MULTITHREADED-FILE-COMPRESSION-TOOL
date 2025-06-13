@@ -52,3 +52,4 @@ Summary:
 This program demonstrates file I/O, basic string manipulation, RLE compression/decompression logic, and concurrent execution using threads and mutexes.
 
 OUTPUT:
+![Image](https://github.com/user-attachments/assets/d69c1c8c-7593-4849-9d05-3b0f4fd8b7f9)
